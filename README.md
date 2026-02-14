@@ -1,0 +1,2 @@
+# AI-ASSISTED-DEVOPS-AUTOMATION-PROJECT
+GenAI Powered Dockerfile Generator
