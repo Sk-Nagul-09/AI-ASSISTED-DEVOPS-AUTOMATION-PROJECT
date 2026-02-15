@@ -122,6 +122,17 @@ CMD FLASK_APP=app.py flask run --host=0.0.0.0 --port=8082
 EXPOSE 8082
 ```
 
+### 📸 OutPut Screenshots
+
+## 📸 Screenshot 1
+
+<img width="1040" height="550" alt="Ai_SS_1_Groovy" src="https://github.com/user-attachments/assets/11814663-6a0e-4ebf-a655-3556fa686546" />
+
+## 📸 Screenshot 2
+
+<img width="1387" height="679" alt="Ai_SS_2_Python" src="https://github.com/user-attachments/assets/71dee19b-29f7-4d98-9e8c-98b52179c4ba" />
+
+
 🔐 Why Run AI Locally?
 ---
 
